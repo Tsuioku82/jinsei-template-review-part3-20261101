@@ -1,0 +1,19 @@
+# repoにコピーする場合のファイル名は .gitignore
+# 未追跡の秘密を除外するための雛形。追跡済みファイルには効きません。
+.env
+.env.*
+*.env
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+node_modules/
+__pycache__/
+*.log
+
+# Private local work and superseded draft
+_checks/
+基本案/
+assets/check-results.json
+assets/generated/

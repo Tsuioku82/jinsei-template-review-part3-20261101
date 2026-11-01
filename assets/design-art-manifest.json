@@ -1,0 +1,147 @@
+{
+  "A01": {
+    "original": "資料\\生成画像原本\\最終改修\\A01.png",
+    "file": "img/design-A01.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "A02": {
+    "original": "資料\\生成画像原本\\最終改修\\A02.png",
+    "file": "img/design-A02.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph",
+    "gif": "img/design-A02-motion.gif"
+  },
+  "A05": {
+    "original": "資料\\生成画像原本\\最終改修\\A05.png",
+    "file": "img/design-A05.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "A03": {
+    "original": "資料\\生成画像原本\\最終改修\\A03.png",
+    "file": "img/design-A03.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "A06": {
+    "original": "資料\\生成画像原本\\最終改修\\A06.png",
+    "file": "img/design-A06.png",
+    "width": 900,
+    "height": 822,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "A04": {
+    "original": "資料\\生成画像原本\\最終改修\\A04.png",
+    "file": "img/design-A04.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "A08": {
+    "original": "資料\\生成画像原本\\最終改修\\A08.png",
+    "file": "img/design-A08.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "A07": {
+    "original": "資料\\生成画像原本\\最終改修\\A07.png",
+    "file": "img/design-A07.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph",
+    "gif": "img/design-A07-motion.gif"
+  },
+  "A09": {
+    "original": "資料\\生成画像原本\\最終改修\\A09.png",
+    "file": "img/design-A09.png",
+    "width": 900,
+    "height": 728,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "A10": {
+    "original": "資料\\生成画像原本\\最終改修\\A10.png",
+    "file": "img/design-A10.png",
+    "width": 900,
+    "height": 822,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "B04": {
+    "original": "資料\\生成画像原本\\最終改修\\B04.png",
+    "file": "img/design-B04.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "B01": {
+    "original": "資料\\生成画像原本\\最終改修\\B01.png",
+    "file": "img/design-B01.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "B05": {
+    "original": "資料\\生成画像原本\\最終改修\\B05.png",
+    "file": "img/design-B05.png",
+    "width": 600,
+    "height": 900,
+    "purpose": "design-only decoration; never a customer photograph",
+    "gif": "img/design-B05-motion.gif"
+  },
+  "B02": {
+    "original": "資料\\生成画像原本\\最終改修\\B02.png",
+    "file": "img/design-B02.png",
+    "width": 856,
+    "height": 900,
+    "purpose": "design-only decoration; never a customer photograph",
+    "gif": "img/design-B02-motion.gif"
+  },
+  "B06": {
+    "original": "資料\\生成画像原本\\最終改修\\B06.png",
+    "file": "img/design-B06.png",
+    "width": 900,
+    "height": 600,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "B07": {
+    "original": "資料\\生成画像原本\\最終改修\\B07.png",
+    "file": "img/design-B07.png",
+    "width": 600,
+    "height": 900,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "B09": {
+    "original": "資料\\生成画像原本\\最終改修\\B09.png",
+    "file": "img/design-B09.png",
+    "width": 750,
+    "height": 900,
+    "purpose": "design-only decoration; never a customer photograph",
+    "gif": "img/design-B09-motion.gif"
+  },
+  "B03": {
+    "original": "資料\\生成画像原本\\最終改修\\B03.png",
+    "file": "img/design-B03.png",
+    "width": 900,
+    "height": 822,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "B08": {
+    "original": "資料\\生成画像原本\\最終改修\\B08.png",
+    "file": "img/design-B08.png",
+    "width": 900,
+    "height": 822,
+    "purpose": "design-only decoration; never a customer photograph"
+  },
+  "B10": {
+    "original": "資料\\生成画像原本\\最終改修\\B10.png",
+    "file": "img/design-B10.png",
+    "width": 900,
+    "height": 822,
+    "purpose": "design-only decoration; never a customer photograph"
+  }
+}
