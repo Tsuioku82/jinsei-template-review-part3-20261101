@@ -38,4 +38,7 @@ write(path.join(root,'assets/section-tone-evidence.json'),JSON.stringify(toneEvi
 write(path.join(root,'記入シート.html'),'<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>情報記入シートへ</title><p style="font:18px/2 Meiryo,sans-serif;padding:25px"><a href="情報記入シート.html">写真と文章の記入シート・A4 PDFを開く</a></p><script>location.replace("情報記入シート.html")</script></html>');
 
 write(path.join(root,'assets/variants.json'),JSON.stringify(all,null,2));
+// A changed stylesheet/script gets a new URL so an earlier browser cache cannot hide a correction.
+const cacheDocuments=['index.html','_一覧.html',...['A','B'].flatMap(kind=>Array.from({length:10},(_,i)=>'template'+kind+'/layout-'+String(i+1).padStart(2,'0')+'.html'))];
+for(const file of cacheDocuments){const target=path.join(root,file);const html=fs.readFileSync(target,'utf8').replace(/(href|src)="([^"?]+\.(?:css|js))(?:\?[^\"]*)?"/g,(match,attribute,url)=>{if(/^(?:https?:|data:)/.test(url))return match;const asset=path.resolve(path.dirname(target),url);const digest=require('node:crypto').createHash('sha256').update(fs.readFileSync(asset)).digest('hex').slice(0,10);return attribute+'="'+url+'?v='+digest+'"';});write(target,html);}
 console.log('Built 20 full layouts, 200 actual-screen previews/links, 10 palettes per template, and printable question sheet.');
