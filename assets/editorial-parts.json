@@ -1,0 +1,120 @@
+{
+  "A05-sprig": {
+    "file": "img/a05-sprig.png",
+    "width": 600,
+    "height": 303,
+    "role": "design-specific botanical decorative part; never a customer photograph"
+  },
+  "A05-bud": {
+    "file": "img/a05-bud.png",
+    "width": 600,
+    "height": 309,
+    "role": "design-specific botanical decorative part; never a customer photograph"
+  },
+  "A05-acorns": {
+    "file": "img/a05-acorns.png",
+    "width": 600,
+    "height": 306,
+    "role": "design-specific botanical decorative part; never a customer photograph"
+  },
+  "A05-bloom": {
+    "file": "img/a05-bloom.png",
+    "width": 600,
+    "height": 296,
+    "role": "design-specific botanical decorative part; never a customer photograph"
+  },
+  "divider-A07": {
+    "file": "img/divider-v2-A07.png",
+    "width": 1362,
+    "height": 400,
+    "role": "design-specific open ornamental strand; use natural aspect ratio, separate from text and photos"
+  },
+  "divider-A10": {
+    "file": "img/divider-v2-A10.png",
+    "width": 1240,
+    "height": 400,
+    "role": "design-specific open ornamental strand; use natural aspect ratio, separate from text and photos"
+  },
+  "divider-B01": {
+    "file": "img/divider-v2-B01.png",
+    "width": 1219,
+    "height": 400,
+    "role": "design-specific open ornamental strand; use natural aspect ratio, separate from text and photos"
+  },
+  "divider-B02": {
+    "file": "img/divider-v2-B02.png",
+    "width": 1216,
+    "height": 400,
+    "role": "design-specific open ornamental strand; use natural aspect ratio, separate from text and photos"
+  },
+  "divider-B05": {
+    "file": "img/divider-v2-B05.png",
+    "width": 1205,
+    "height": 400,
+    "role": "design-specific open ornamental strand; use natural aspect ratio, separate from text and photos"
+  },
+  "divider-B06": {
+    "file": "img/divider-v2-B06.png",
+    "width": 1002,
+    "height": 400,
+    "role": "design-specific open ornamental strand; use natural aspect ratio, separate from text and photos"
+  },
+  "divider-B09": {
+    "file": "img/divider-v2-B09.png",
+    "width": 966,
+    "height": 400,
+    "role": "design-specific open ornamental strand; use natural aspect ratio, separate from text and photos"
+  },
+  "divider-B10": {
+    "file": "img/design-B10.png",
+    "width": 900,
+    "height": 822,
+    "role": "original B10 floral cameo, placed above the chapter title at its natural aspect ratio"
+  },
+  "A07-city": {
+    "file": "img/noir-city.jpg",
+    "width": 1600,
+    "height": 686,
+    "role": "generated decoration assigned only to A07 in the active layouts"
+  },
+  "A07-objects": {
+    "file": "img/noir-objects.jpg",
+    "width": 1600,
+    "height": 900,
+    "role": "generated decoration assigned only to A07 in the active layouts"
+  },
+  "A09-slab": {
+    "file": "img/obsidian-background.png",
+    "width": 1600,
+    "height": 900,
+    "role": "generated decoration assigned only to A09 in the active layouts"
+  },
+  "A10-scene": {
+    "file": "img/luxury-memoir.png",
+    "width": 1600,
+    "height": 900,
+    "role": "generated decoration assigned only to A10 in the active layouts"
+  },
+  "A06-tool": {
+    "file": "img/craft-plane-part.png",
+    "width": 600,
+    "height": 400,
+    "role": "generated decoration assigned only to A06 in the active layouts"
+  },
+  "B01-flower": {
+    "file": "img/pressed-cosmos-part.png",
+    "width": 400,
+    "height": 600,
+    "role": "generated decoration assigned only to B01 in the active layouts"
+  },
+  "B02-keepsake": {
+    "file": "img/b02-keepsake.png",
+    "width": 1254,
+    "height": 1254
+  },
+  "B09-still-life": {
+    "file": "img/heart-white-v2.jpg",
+    "width": 1600,
+    "height": 900
+  }
+}

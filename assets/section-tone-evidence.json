@@ -615,154 +615,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "01",
-    "paper": "#caccbe",
+    "paper": "#efede3",
     "ink": "#2b2520",
-    "bodyMin": 8.46,
-    "titleRatio": 9.29
+    "bodyMin": 11.65,
+    "titleRatio": 12.89
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "01",
-    "paper": "#c6c8ba",
+    "paper": "#eae8de",
     "ink": "#2f2924",
-    "bodyMin": 7.85
+    "bodyMin": 10.77
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "01",
-    "paper": "#c2c4b6",
+    "paper": "#e5e3d9",
     "ink": "#312b27",
-    "bodyMin": 7.32
+    "bodyMin": 10.05
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "01",
-    "paper": "#bec0b2",
-    "ink": "#2b2520",
-    "bodyMin": 7.59
+    "paper": "#e1ded5",
+    "ink": "#332e29",
+    "bodyMin": 9.24
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "01",
-    "paper": "#c3c4b7",
+    "paper": "#e6e4da",
     "ink": "#302a26",
-    "bodyMin": 7.44
+    "bodyMin": 10.29
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "01",
-    "paper": "#bfc0b3",
-    "ink": "#2b2520",
-    "bodyMin": 7.62
+    "paper": "#e1dfd5",
+    "ink": "#322d28",
+    "bodyMin": 9.44
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "01",
-    "paper": "#c3c4b7",
+    "paper": "#e6e4da",
     "ink": "#302a25",
-    "bodyMin": 7.44
+    "bodyMin": 10.3
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "01",
-    "paper": "#122920",
+    "paper": "#102a20",
     "ink": "#faf5ed",
-    "bodyMin": 12.21,
-    "titleRatio": 11.12
+    "bodyMin": 12.12,
+    "titleRatio": 11.03
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "01",
-    "paper": "#1c3229",
+    "paper": "#1b3329",
     "ink": "#f9f4ed",
-    "bodyMin": 10.94
+    "bodyMin": 10.84
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 2,
     "palette": "01",
-    "paper": "#22372e",
+    "paper": "#20382e",
     "ink": "#f8f4ec",
-    "bodyMin": 10.1
+    "bodyMin": 10.14
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 3,
     "palette": "01",
-    "paper": "#1c3229",
+    "paper": "#1a3329",
     "ink": "#f9f4ed",
-    "bodyMin": 10.94
+    "bodyMin": 10.86
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 4,
     "palette": "01",
-    "paper": "#22372e",
+    "paper": "#20382e",
     "ink": "#f9f4ec",
-    "bodyMin": 10.12
+    "bodyMin": 10.16
   },
   {
     "edition": "A05",
     "chapter": 3,
     "palette": "01",
-    "paper": "#c0c6ba",
+    "paper": "#eceade",
     "ink": "#2b2520",
-    "bodyMin": 7.9,
-    "titleRatio": 8.66
+    "bodyMin": 11.31,
+    "titleRatio": 12.53
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 1,
     "palette": "01",
-    "paper": "#b6bcb0",
-    "ink": "#2b2520",
-    "bodyMin": 7.23
+    "paper": "#dfddd2",
+    "ink": "#332d29",
+    "bodyMin": 9.21
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 2,
     "palette": "01",
-    "paper": "#bac0b4",
+    "paper": "#e4e2d7",
     "ink": "#302a25",
-    "bodyMin": 7.07
+    "bodyMin": 10.09
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 3,
     "palette": "01",
-    "paper": "#bbc1b5",
+    "paper": "#e6e3d8",
     "ink": "#2f2924",
-    "bodyMin": 7.24
+    "bodyMin": 10.35
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "01",
-    "paper": "#b8bdb1",
-    "ink": "#2b2520",
-    "bodyMin": 7.32
+    "paper": "#e1dfd3",
+    "ink": "#312c27",
+    "bodyMin": 9.56
   },
   {
     "edition": "A06",
@@ -2145,154 +2145,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "02",
-    "paper": "#eef0e0",
+    "paper": "#faf7ed",
     "ink": "#2b2520",
-    "bodyMin": 11.84,
-    "titleRatio": 9.68
+    "bodyMin": 12.72,
+    "titleRatio": 10.43
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "02",
-    "paper": "#e9ebdb",
+    "paper": "#f5f2e8",
     "ink": "#2b2521",
-    "bodyMin": 11.51
+    "bodyMin": 12.44
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "02",
-    "paper": "#e4e6d7",
+    "paper": "#f0ede3",
     "ink": "#2b2621",
-    "bodyMin": 10.9
+    "bodyMin": 11.77
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "02",
-    "paper": "#e0e1d2",
+    "paper": "#ebe8de",
     "ink": "#2b2622",
-    "bodyMin": 10.48
+    "bodyMin": 11.23
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "02",
-    "paper": "#e5e6d7",
+    "paper": "#f0ede3",
     "ink": "#2b2621",
-    "bodyMin": 10.93
+    "bodyMin": 11.77
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "02",
-    "paper": "#e0e2d2",
+    "paper": "#ebe8de",
     "ink": "#2b2622",
-    "bodyMin": 10.55
+    "bodyMin": 11.23
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "02",
-    "paper": "#e5e7d7",
+    "paper": "#f1eee4",
     "ink": "#2b2621",
-    "bodyMin": 11
+    "bodyMin": 11.88
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "02",
-    "paper": "#32483f",
+    "paper": "#1a342a",
     "ink": "#faf5ed",
-    "bodyMin": 7.73,
-    "titleRatio": 9.07
+    "bodyMin": 10.49,
+    "titleRatio": 12.34
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "02",
-    "paper": "#3b5047",
-    "ink": "#faf5ed",
-    "bodyMin": 7.12
+    "paper": "#243d33",
+    "ink": "#f3efe7",
+    "bodyMin": 9.04
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 2,
     "palette": "02",
-    "paper": "#3d5047",
-    "ink": "#faf5ed",
-    "bodyMin": 7.08
+    "paper": "#294137",
+    "ink": "#f1ece5",
+    "bodyMin": 8.27
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 3,
     "palette": "02",
-    "paper": "#3b4f46",
-    "ink": "#faf5ed",
-    "bodyMin": 7.2
+    "paper": "#243c32",
+    "ink": "#f4f0e8",
+    "bodyMin": 9.24
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 4,
     "palette": "02",
-    "paper": "#3c5047",
-    "ink": "#faf5ed",
-    "bodyMin": 7.1
+    "paper": "#294137",
+    "ink": "#f2ede6",
+    "bodyMin": 8.35
   },
   {
     "edition": "A05",
     "chapter": 3,
     "palette": "02",
-    "paper": "#e4eadc",
+    "paper": "#f6f4e8",
     "ink": "#2b2520",
-    "bodyMin": 11.14,
-    "titleRatio": 9.1
+    "bodyMin": 12.41,
+    "titleRatio": 10.13
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 1,
     "palette": "02",
-    "paper": "#d8ddd0",
+    "paper": "#e9e7db",
     "ink": "#2b2622",
-    "bodyMin": 10
+    "bodyMin": 11.09
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 2,
     "palette": "02",
-    "paper": "#dde2d5",
+    "paper": "#eeece0",
     "ink": "#2b2621",
-    "bodyMin": 10.51
+    "bodyMin": 11.63
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 3,
     "palette": "02",
-    "paper": "#dee3d6",
+    "paper": "#efede1",
     "ink": "#2b2621",
-    "bodyMin": 10.54
+    "bodyMin": 11.74
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "02",
-    "paper": "#d9dfd1",
+    "paper": "#eae8dd",
     "ink": "#2b2621",
-    "bodyMin": 10.18
+    "bodyMin": 11.21
   },
   {
     "edition": "A06",
@@ -3675,154 +3675,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "03",
-    "paper": "#cbcec0",
+    "paper": "#f0ede4",
     "ink": "#2b2520",
-    "bodyMin": 8.62,
-    "titleRatio": 9.46
+    "bodyMin": 11.68,
+    "titleRatio": 12.92
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "03",
-    "paper": "#c7cabc",
+    "paper": "#ebe8df",
     "ink": "#2f2822",
-    "bodyMin": 8.09
+    "bodyMin": 10.91
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "03",
-    "paper": "#c3c6b8",
+    "paper": "#e6e3da",
     "ink": "#312a24",
-    "bodyMin": 7.55
+    "bodyMin": 10.2
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "03",
-    "paper": "#bfc2b4",
+    "paper": "#e2ded6",
     "ink": "#342c25",
-    "bodyMin": 7.03
+    "bodyMin": 9.45
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "03",
-    "paper": "#c3c6b8",
+    "paper": "#e7e4db",
     "ink": "#312923",
-    "bodyMin": 7.63
+    "bodyMin": 10.4
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "03",
-    "paper": "#c0c2b5",
+    "paper": "#e2dfd6",
     "ink": "#332b25",
-    "bodyMin": 7.15
+    "bodyMin": 9.64
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "03",
-    "paper": "#c4c6b9",
+    "paper": "#e7e4db",
     "ink": "#302923",
-    "bodyMin": 7.67
+    "bodyMin": 10.44
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "03",
-    "paper": "#132b22",
+    "paper": "#102a21",
     "ink": "#faf5ed",
-    "bodyMin": 11.89,
-    "titleRatio": 8.12
+    "bodyMin": 12.11,
+    "titleRatio": 8.24
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "03",
-    "paper": "#1d342b",
+    "paper": "#1b332a",
     "ink": "#f9f3ea",
-    "bodyMin": 10.56
+    "bodyMin": 10.74
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 2,
     "palette": "03",
-    "paper": "#233930",
+    "paper": "#20382f",
     "ink": "#f9f2e9",
-    "bodyMin": 9.82
+    "bodyMin": 10.02
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 3,
     "palette": "03",
-    "paper": "#1d342b",
+    "paper": "#1a332a",
     "ink": "#f9f3ea",
-    "bodyMin": 10.56
+    "bodyMin": 10.76
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 4,
     "palette": "03",
-    "paper": "#223930",
+    "paper": "#20382f",
     "ink": "#f9f2e9",
-    "bodyMin": 9.84
+    "bodyMin": 10.02
   },
   {
     "edition": "A05",
     "chapter": 3,
     "palette": "03",
-    "paper": "#c1c8bc",
+    "paper": "#eceadf",
     "ink": "#2b2520",
-    "bodyMin": 8.04,
-    "titleRatio": 8.83
+    "bodyMin": 11.31,
+    "titleRatio": 12.54
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 1,
     "palette": "03",
-    "paper": "#b7bdb2",
-    "ink": "#2b2520",
-    "bodyMin": 7.31
+    "paper": "#dfddd3",
+    "ink": "#332b25",
+    "bodyMin": 9.43
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 2,
     "palette": "03",
-    "paper": "#bbc2b6",
+    "paper": "#e4e2d8",
     "ink": "#302923",
-    "bodyMin": 7.29
+    "bodyMin": 10.21
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 3,
     "palette": "03",
-    "paper": "#bcc3b7",
+    "paper": "#e6e3d9",
     "ink": "#2f2823",
-    "bodyMin": 7.46
+    "bodyMin": 10.46
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "03",
-    "paper": "#b8bfb3",
-    "ink": "#2b2520",
-    "bodyMin": 7.45
+    "paper": "#e1dfd4",
+    "ink": "#322a24",
+    "bodyMin": 9.75
   },
   {
     "edition": "A06",
@@ -5205,154 +5205,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "04",
-    "paper": "#cad0c0",
+    "paper": "#efeee4",
     "ink": "#2b2520",
-    "bodyMin": 8.73,
-    "titleRatio": 9.58
+    "bodyMin": 11.73,
+    "titleRatio": 12.98
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "04",
-    "paper": "#c6ccbc",
+    "paper": "#eae9df",
     "ink": "#2e2923",
-    "bodyMin": 8.14
+    "bodyMin": 10.89
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "04",
-    "paper": "#c2c8b8",
+    "paper": "#e5e4da",
     "ink": "#302b25",
-    "bodyMin": 7.59
+    "bodyMin": 10.18
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "04",
-    "paper": "#bec4b4",
+    "paper": "#e1dfd6",
     "ink": "#322d27",
-    "bodyMin": 7.1
+    "bodyMin": 9.45
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "04",
-    "paper": "#c3c8b8",
+    "paper": "#e6e5db",
     "ink": "#2f2a24",
-    "bodyMin": 7.72
+    "bodyMin": 10.42
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "04",
-    "paper": "#bfc4b5",
+    "paper": "#e1e0d6",
     "ink": "#312d26",
-    "bodyMin": 7.15
+    "bodyMin": 9.56
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "04",
-    "paper": "#c3c8b9",
+    "paper": "#e6e5db",
     "ink": "#2f2a24",
-    "bodyMin": 7.72
+    "bodyMin": 10.42
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "04",
-    "paper": "#122d22",
+    "paper": "#102b21",
     "ink": "#faf5ed",
-    "bodyMin": 11.64,
-    "titleRatio": 9.45
+    "bodyMin": 11.97,
+    "titleRatio": 9.69
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "04",
-    "paper": "#1c362b",
+    "paper": "#1b342a",
     "ink": "#f8f4eb",
-    "bodyMin": 10.38
+    "bodyMin": 10.66
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 2,
     "palette": "04",
-    "paper": "#223b30",
+    "paper": "#20392f",
     "ink": "#f7f4ea",
-    "bodyMin": 9.7
+    "bodyMin": 9.99
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 3,
     "palette": "04",
-    "paper": "#1c362b",
+    "paper": "#1a342a",
     "ink": "#f8f4eb",
-    "bodyMin": 10.38
+    "bodyMin": 10.69
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 4,
     "palette": "04",
-    "paper": "#223a30",
+    "paper": "#20392f",
     "ink": "#f8f4ea",
-    "bodyMin": 9.84
+    "bodyMin": 10.01
   },
   {
     "edition": "A05",
     "chapter": 3,
     "palette": "04",
-    "paper": "#c0cabc",
+    "paper": "#ecebdf",
     "ink": "#2b2520",
-    "bodyMin": 8.15,
-    "titleRatio": 8.94
+    "bodyMin": 11.39,
+    "titleRatio": 12.62
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 1,
     "palette": "04",
-    "paper": "#b6bfb2",
-    "ink": "#2b2520",
-    "bodyMin": 7.41
+    "paper": "#dfded3",
+    "ink": "#322d26",
+    "bodyMin": 9.34
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 2,
     "palette": "04",
-    "paper": "#bac4b6",
+    "paper": "#e4e3d8",
     "ink": "#2f2a24",
-    "bodyMin": 7.34
+    "bodyMin": 10.21
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 3,
     "palette": "04",
-    "paper": "#bbc5b7",
+    "paper": "#e6e4d9",
     "ink": "#2e2923",
-    "bodyMin": 7.52
+    "bodyMin": 10.47
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "04",
-    "paper": "#b8c1b3",
+    "paper": "#e1e0d4",
     "ink": "#302b25",
-    "bodyMin": 7.02
+    "bodyMin": 9.78
   },
   {
     "edition": "A06",
@@ -6735,154 +6735,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "05",
-    "paper": "#caccbe",
+    "paper": "#f0ede3",
     "ink": "#2b2520",
-    "bodyMin": 8.46,
-    "titleRatio": 9.29
+    "bodyMin": 11.67,
+    "titleRatio": 12.91
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "05",
-    "paper": "#c6c8ba",
+    "paper": "#ebe8de",
     "ink": "#2f2823",
-    "bodyMin": 7.93
+    "bodyMin": 10.9
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "05",
-    "paper": "#c2c4b6",
+    "paper": "#e6e3d9",
     "ink": "#312a24",
-    "bodyMin": 7.4
+    "bodyMin": 10.19
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "05",
-    "paper": "#bec0b2",
-    "ink": "#2b2520",
-    "bodyMin": 7.59
+    "paper": "#e2ded5",
+    "ink": "#332d26",
+    "bodyMin": 9.38
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "05",
-    "paper": "#c3c4b7",
+    "paper": "#e7e4da",
     "ink": "#302a24",
-    "bodyMin": 7.45
+    "bodyMin": 10.33
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "05",
-    "paper": "#bfc0b3",
-    "ink": "#2b2520",
-    "bodyMin": 7.62
+    "paper": "#e2dfd5",
+    "ink": "#332c25",
+    "bodyMin": 9.55
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "05",
-    "paper": "#c3c4b7",
+    "paper": "#e7e4da",
     "ink": "#302923",
-    "bodyMin": 7.53
+    "bodyMin": 10.43
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "05",
-    "paper": "#122920",
+    "paper": "#102a20",
     "ink": "#faf5ed",
-    "bodyMin": 12.21,
-    "titleRatio": 9.3
+    "bodyMin": 12.12,
+    "titleRatio": 9.23
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "05",
-    "paper": "#1c3229",
+    "paper": "#1b3329",
     "ink": "#f9f3ea",
+    "bodyMin": 10.75
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 2,
+    "palette": "05",
+    "paper": "#20382e",
+    "ink": "#f9f3e9",
+    "bodyMin": 10.09
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 3,
+    "palette": "05",
+    "paper": "#1a3329",
+    "ink": "#f9f4eb",
     "bodyMin": 10.85
   },
   {
     "edition": "A05",
     "chapter": 2,
-    "memory": 2,
-    "palette": "05",
-    "paper": "#22372e",
-    "ink": "#f9f3e9",
-    "bodyMin": 10.17
-  },
-  {
-    "edition": "A05",
-    "chapter": 2,
-    "memory": 3,
-    "palette": "05",
-    "paper": "#1c3229",
-    "ink": "#f9f4eb",
-    "bodyMin": 10.93
-  },
-  {
-    "edition": "A05",
-    "chapter": 2,
     "memory": 4,
     "palette": "05",
-    "paper": "#22372e",
+    "paper": "#20382e",
     "ink": "#f9f3ea",
-    "bodyMin": 10.17
+    "bodyMin": 10.1
   },
   {
     "edition": "A05",
     "chapter": 3,
     "palette": "05",
-    "paper": "#c0c6b9",
+    "paper": "#eceade",
     "ink": "#2b2520",
-    "bodyMin": 7.89,
-    "titleRatio": 8.66
+    "bodyMin": 11.31,
+    "titleRatio": 12.53
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 1,
     "palette": "05",
-    "paper": "#b6bcaf",
-    "ink": "#2b2520",
-    "bodyMin": 7.22
+    "paper": "#dfddd2",
+    "ink": "#332c26",
+    "bodyMin": 9.33
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 2,
     "palette": "05",
-    "paper": "#bac0b3",
+    "paper": "#e4e2d7",
     "ink": "#302a23",
-    "bodyMin": 7.08
+    "bodyMin": 10.11
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 3,
     "palette": "05",
-    "paper": "#bbc1b4",
+    "paper": "#e6e3d8",
     "ink": "#2f2923",
-    "bodyMin": 7.24
+    "bodyMin": 10.36
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "05",
-    "paper": "#b8bdb0",
-    "ink": "#2b2520",
-    "bodyMin": 7.32
+    "paper": "#e1dfd3",
+    "ink": "#312b24",
+    "bodyMin": 9.68
   },
   {
     "edition": "A06",
@@ -8265,154 +8265,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "06",
-    "paper": "#cbcfc3",
+    "paper": "#f0ede4",
     "ink": "#2b2520",
-    "bodyMin": 8.7,
-    "titleRatio": 9.55
+    "bodyMin": 11.68,
+    "titleRatio": 12.92
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "06",
-    "paper": "#c7cbbf",
+    "paper": "#ebe8df",
     "ink": "#2e2824",
-    "bodyMin": 8.19
+    "bodyMin": 10.91
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "06",
-    "paper": "#c3c7bb",
+    "paper": "#e6e3da",
     "ink": "#2f2b27",
-    "bodyMin": 7.58
+    "bodyMin": 10.14
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "06",
-    "paper": "#bfc3b7",
+    "paper": "#e2ded6",
     "ink": "#312d29",
-    "bodyMin": 7.08
+    "bodyMin": 9.42
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "06",
-    "paper": "#c3c7bb",
+    "paper": "#e7e4db",
     "ink": "#2f2a26",
-    "bodyMin": 7.66
+    "bodyMin": 10.35
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "06",
-    "paper": "#c0c3b7",
+    "paper": "#e2dfd6",
     "ink": "#302c28",
-    "bodyMin": 7.2
+    "bodyMin": 9.62
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "06",
-    "paper": "#c4c7bc",
+    "paper": "#e7e4db",
     "ink": "#2e2925",
-    "bodyMin": 7.79
+    "bodyMin": 10.49
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "06",
-    "paper": "#132c25",
+    "paper": "#102b22",
     "ink": "#faf5ed",
-    "bodyMin": 11.72,
-    "titleRatio": 8.53
+    "bodyMin": 11.96,
+    "titleRatio": 8.68
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "06",
-    "paper": "#1d352e",
+    "paper": "#1b342b",
     "ink": "#f7f4ed",
-    "bodyMin": 10.44
+    "bodyMin": 10.65
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 2,
     "palette": "06",
-    "paper": "#233a33",
+    "paper": "#203930",
     "ink": "#f6f3ed",
-    "bodyMin": 9.73
+    "bodyMin": 9.91
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 3,
     "palette": "06",
-    "paper": "#1d352e",
+    "paper": "#1a342b",
     "ink": "#f8f4ed",
+    "bodyMin": 10.69
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 4,
+    "palette": "06",
+    "paper": "#203930",
+    "ink": "#f7f3ed",
+    "bodyMin": 9.93
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "palette": "06",
+    "paper": "#ecebe0",
+    "ink": "#2b2520",
+    "bodyMin": 11.4,
+    "titleRatio": 12.63
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "memory": 1,
+    "palette": "06",
+    "paper": "#dfded4",
+    "ink": "#312c29",
+    "bodyMin": 9.44
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "memory": 2,
+    "palette": "06",
+    "paper": "#e4e3d9",
+    "ink": "#2f2a25",
+    "bodyMin": 10.21
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "memory": 3,
+    "palette": "06",
+    "paper": "#e6e4da",
+    "ink": "#2e2925",
     "bodyMin": 10.46
   },
   {
     "edition": "A05",
-    "chapter": 2,
-    "memory": 4,
-    "palette": "06",
-    "paper": "#223932",
-    "ink": "#f7f3ed",
-    "bodyMin": 9.87
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "palette": "06",
-    "paper": "#c1c9be",
-    "ink": "#2b2520",
-    "bodyMin": 8.12,
-    "titleRatio": 8.91
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "memory": 1,
-    "palette": "06",
-    "paper": "#b7beb4",
-    "ink": "#2b2520",
-    "bodyMin": 7.38
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "memory": 2,
-    "palette": "06",
-    "paper": "#bbc3b8",
-    "ink": "#2f2a25",
-    "bodyMin": 7.3
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "memory": 3,
-    "palette": "06",
-    "paper": "#bcc4b9",
-    "ink": "#2e2925",
-    "bodyMin": 7.47
-  },
-  {
-    "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "06",
-    "paper": "#b8c0b5",
-    "ink": "#2b2520",
-    "bodyMin": 7.52
+    "paper": "#e1e0d5",
+    "ink": "#302b27",
+    "bodyMin": 9.77
   },
   {
     "edition": "A06",
@@ -9795,154 +9795,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "07",
-    "paper": "#ecf0e2",
+    "paper": "#f9f7ed",
     "ink": "#2b2520",
-    "bodyMin": 11.81,
-    "titleRatio": 7.77
+    "bodyMin": 12.69,
+    "titleRatio": 8.39
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "07",
-    "paper": "#e7ebdd",
+    "paper": "#f4f2e8",
     "ink": "#2b2622",
-    "bodyMin": 11.39
+    "bodyMin": 12.3
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "07",
-    "paper": "#e3e6d8",
+    "paper": "#efede3",
     "ink": "#2b2622",
-    "bodyMin": 10.88
+    "bodyMin": 11.74
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "07",
-    "paper": "#dee1d4",
+    "paper": "#eae8de",
     "ink": "#2b2723",
-    "bodyMin": 10.34
+    "bodyMin": 11.1
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "07",
-    "paper": "#e3e6d9",
+    "paper": "#efede3",
     "ink": "#2b2622",
-    "bodyMin": 10.89
+    "bodyMin": 11.74
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "07",
-    "paper": "#dee2d4",
+    "paper": "#eae8de",
     "ink": "#2b2723",
-    "bodyMin": 10.41
+    "bodyMin": 11.1
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "07",
-    "paper": "#e3e7d9",
+    "paper": "#f0eee4",
     "ink": "#2b2622",
+    "bodyMin": 11.85
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "palette": "07",
+    "paper": "#1a342a",
+    "ink": "#faf5ed",
+    "bodyMin": 10.49,
+    "titleRatio": 12.34
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 1,
+    "palette": "07",
+    "paper": "#243d33",
+    "ink": "#f3efe9",
+    "bodyMin": 9.05
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 2,
+    "palette": "07",
+    "paper": "#294137",
+    "ink": "#f0ede7",
+    "bodyMin": 8.32
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 3,
+    "palette": "07",
+    "paper": "#243c32",
+    "ink": "#f4f0e9",
+    "bodyMin": 9.25
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 4,
+    "palette": "07",
+    "paper": "#294137",
+    "ink": "#f1eee7",
+    "bodyMin": 8.39
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "palette": "07",
+    "paper": "#f5f4e8",
+    "ink": "#2b2520",
+    "bodyMin": 12.39,
+    "titleRatio": 8.14
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "memory": 1,
+    "palette": "07",
+    "paper": "#e8e7db",
+    "ink": "#2b2723",
     "bodyMin": 10.96
   },
   {
     "edition": "A05",
-    "chapter": 2,
-    "palette": "07",
-    "paper": "#30483f",
-    "ink": "#faf5ed",
-    "bodyMin": 7.77,
-    "titleRatio": 9.11
-  },
-  {
-    "edition": "A05",
-    "chapter": 2,
-    "memory": 1,
-    "palette": "07",
-    "paper": "#395047",
-    "ink": "#faf5ed",
-    "bodyMin": 7.15
-  },
-  {
-    "edition": "A05",
-    "chapter": 2,
-    "memory": 2,
-    "palette": "07",
-    "paper": "#3b5047",
-    "ink": "#faf5ed",
-    "bodyMin": 7.12
-  },
-  {
-    "edition": "A05",
-    "chapter": 2,
-    "memory": 3,
-    "palette": "07",
-    "paper": "#394f46",
-    "ink": "#faf5ed",
-    "bodyMin": 7.24
-  },
-  {
-    "edition": "A05",
-    "chapter": 2,
-    "memory": 4,
-    "palette": "07",
-    "paper": "#3b5047",
-    "ink": "#faf5ed",
-    "bodyMin": 7.12
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "palette": "07",
-    "paper": "#e2eade",
-    "ink": "#2b2520",
-    "bodyMin": 11.11,
-    "titleRatio": 7.31
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "memory": 1,
-    "palette": "07",
-    "paper": "#d6ddd2",
-    "ink": "#2b2723",
-    "bodyMin": 9.88
-  },
-  {
-    "edition": "A05",
     "chapter": 3,
     "memory": 2,
     "palette": "07",
-    "paper": "#dbe2d7",
+    "paper": "#edece0",
     "ink": "#2b2622",
-    "bodyMin": 10.48
+    "bodyMin": 11.59
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 3,
     "palette": "07",
-    "paper": "#dce3d8",
+    "paper": "#eeede1",
     "ink": "#2b2622",
-    "bodyMin": 10.5
+    "bodyMin": 11.7
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "07",
-    "paper": "#d8dfd3",
+    "paper": "#e9e8dd",
     "ink": "#2b2623",
-    "bodyMin": 10.16
+    "bodyMin": 11.17
   },
   {
     "edition": "A06",
@@ -11325,154 +11325,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "08",
-    "paper": "#cdcdc0",
+    "paper": "#f1ede4",
     "ink": "#2b2520",
-    "bodyMin": 8.59,
-    "titleRatio": 9.43
+    "bodyMin": 11.7,
+    "titleRatio": 12.95
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "08",
-    "paper": "#c9c9bc",
+    "paper": "#ece8df",
     "ink": "#2f2823",
-    "bodyMin": 8.06
+    "bodyMin": 10.91
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "08",
-    "paper": "#c5c5b8",
+    "paper": "#e7e3da",
     "ink": "#322a24",
-    "bodyMin": 7.5
+    "bodyMin": 10.19
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "08",
-    "paper": "#c1c1b4",
-    "ink": "#2b2520",
-    "bodyMin": 7.72
+    "paper": "#e3ded6",
+    "ink": "#342c26",
+    "bodyMin": 9.46
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "08",
-    "paper": "#c5c5b8",
+    "paper": "#e8e4db",
     "ink": "#312a24",
-    "bodyMin": 7.52
+    "bodyMin": 10.32
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "08",
-    "paper": "#c1c1b5",
+    "paper": "#e3dfd6",
     "ink": "#332c25",
-    "bodyMin": 7.04
+    "bodyMin": 9.57
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "08",
-    "paper": "#c6c5b9",
+    "paper": "#e8e4db",
     "ink": "#302923",
-    "bodyMin": 7.65
+    "bodyMin": 10.46
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "08",
-    "paper": "#162a22",
+    "paper": "#112a21",
     "ink": "#faf5ed",
-    "bodyMin": 11.95,
-    "titleRatio": 9.14
+    "bodyMin": 12.09,
+    "titleRatio": 9.22
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "08",
-    "paper": "#20332b",
+    "paper": "#1b332a",
     "ink": "#faf3ea",
-    "bodyMin": 10.63
+    "bodyMin": 10.76
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 2,
     "palette": "08",
-    "paper": "#263830",
+    "paper": "#21382f",
     "ink": "#f9f3e9",
-    "bodyMin": 9.95
+    "bodyMin": 10.06
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 3,
     "palette": "08",
-    "paper": "#20332b",
+    "paper": "#1b332a",
     "ink": "#faf3eb",
-    "bodyMin": 10.64
+    "bodyMin": 10.77
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 4,
     "palette": "08",
-    "paper": "#253830",
+    "paper": "#21382f",
     "ink": "#f9f3ea",
-    "bodyMin": 9.96
+    "bodyMin": 10.07
   },
   {
     "edition": "A05",
     "chapter": 3,
     "palette": "08",
-    "paper": "#c3c7bb",
+    "paper": "#edeadf",
     "ink": "#2b2520",
-    "bodyMin": 8.01,
-    "titleRatio": 8.79
+    "bodyMin": 11.34,
+    "titleRatio": 12.56
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 1,
     "palette": "08",
-    "paper": "#b9bcb1",
-    "ink": "#2b2520",
-    "bodyMin": 7.28
+    "paper": "#e0ddd3",
+    "ink": "#342c25",
+    "bodyMin": 9.33
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 2,
     "palette": "08",
-    "paper": "#bdc1b5",
+    "paper": "#e5e2d8",
     "ink": "#302923",
-    "bodyMin": 7.26
+    "bodyMin": 10.23
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 3,
     "palette": "08",
-    "paper": "#bec2b6",
+    "paper": "#e7e3d9",
     "ink": "#2f2923",
-    "bodyMin": 7.36
+    "bodyMin": 10.39
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "08",
-    "paper": "#babeb2",
-    "ink": "#2b2520",
-    "bodyMin": 7.42
+    "paper": "#e2dfd4",
+    "ink": "#322b24",
+    "bodyMin": 9.67
   },
   {
     "edition": "A06",
@@ -12855,154 +12855,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "09",
-    "paper": "#edf1e3",
+    "paper": "#f9f7ee",
     "ink": "#2b2520",
-    "bodyMin": 11.92,
-    "titleRatio": 7.39
+    "bodyMin": 12.7,
+    "titleRatio": 7.91
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "09",
-    "paper": "#e8ecde",
+    "paper": "#f4f2e9",
     "ink": "#2b2622",
-    "bodyMin": 11.47
+    "bodyMin": 12.3
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "09",
-    "paper": "#e3e7d9",
+    "paper": "#efede4",
     "ink": "#2b2623",
-    "bodyMin": 10.95
+    "bodyMin": 11.74
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "09",
-    "paper": "#dfe2d5",
+    "paper": "#eae8df",
     "ink": "#2b2724",
-    "bodyMin": 10.43
+    "bodyMin": 11.1
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "09",
-    "paper": "#e4e7da",
+    "paper": "#efede4",
     "ink": "#2b2623",
-    "bodyMin": 10.98
+    "bodyMin": 11.74
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "09",
-    "paper": "#dfe3d5",
+    "paper": "#eae8df",
     "ink": "#2b2724",
-    "bodyMin": 10.51
+    "bodyMin": 11.1
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "09",
-    "paper": "#e4e8da",
+    "paper": "#f0eee5",
     "ink": "#2b2622",
-    "bodyMin": 11.07
+    "bodyMin": 11.86
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "09",
-    "paper": "#314841",
+    "paper": "#1a342b",
     "ink": "#faf5ed",
-    "bodyMin": 7.75,
-    "titleRatio": 9.07
+    "bodyMin": 10.48,
+    "titleRatio": 12.32
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "09",
-    "paper": "#3a5049",
-    "ink": "#faf5ed",
-    "bodyMin": 7.12
+    "paper": "#243d34",
+    "ink": "#f3f0e9",
+    "bodyMin": 9.1
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 2,
     "palette": "09",
-    "paper": "#3c5049",
-    "ink": "#faf5ed",
-    "bodyMin": 7.08
+    "paper": "#294138",
+    "ink": "#f0ede8",
+    "bodyMin": 8.32
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 3,
     "palette": "09",
-    "paper": "#3a4f48",
-    "ink": "#faf5ed",
-    "bodyMin": 7.21
+    "paper": "#243c33",
+    "ink": "#f4f0ea",
+    "bodyMin": 9.24
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 4,
     "palette": "09",
-    "paper": "#3b5049",
-    "ink": "#faf5ed",
-    "bodyMin": 7.1
+    "paper": "#294138",
+    "ink": "#f1eee8",
+    "bodyMin": 8.39
   },
   {
     "edition": "A05",
     "chapter": 3,
     "palette": "09",
-    "paper": "#e3ebdf",
+    "paper": "#f6f4e9",
     "ink": "#2b2520",
-    "bodyMin": 11.21,
-    "titleRatio": 6.96
+    "bodyMin": 12.42,
+    "titleRatio": 7.69
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 1,
     "palette": "09",
-    "paper": "#d7ded3",
+    "paper": "#e9e7dc",
     "ink": "#2b2724",
-    "bodyMin": 9.96
+    "bodyMin": 10.98
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 2,
     "palette": "09",
-    "paper": "#dce3d8",
+    "paper": "#eeece1",
     "ink": "#2b2623",
-    "bodyMin": 10.5
+    "bodyMin": 11.62
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 3,
     "palette": "09",
-    "paper": "#dde4d9",
+    "paper": "#efede2",
     "ink": "#2b2622",
-    "bodyMin": 10.61
+    "bodyMin": 11.73
   },
   {
     "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "09",
-    "paper": "#d9e0d4",
+    "paper": "#eae8de",
     "ink": "#2b2723",
-    "bodyMin": 10.16
+    "bodyMin": 11.1
   },
   {
     "edition": "A06",
@@ -14385,154 +14385,154 @@
     "edition": "A05",
     "chapter": 1,
     "palette": "10",
-    "paper": "#cdcfbf",
+    "paper": "#f0ede4",
     "ink": "#2b2520",
-    "bodyMin": 8.72,
-    "titleRatio": 9.56
+    "bodyMin": 11.68,
+    "titleRatio": 12.92
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 1,
     "palette": "10",
-    "paper": "#c9cbbb",
+    "paper": "#ebe8df",
     "ink": "#2f2822",
-    "bodyMin": 8.19
+    "bodyMin": 10.91
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 2,
     "palette": "10",
-    "paper": "#c5c7b7",
+    "paper": "#e6e3da",
     "ink": "#312a24",
-    "bodyMin": 7.64
+    "bodyMin": 10.2
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 3,
     "palette": "10",
-    "paper": "#c1c3b3",
+    "paper": "#e2ded6",
     "ink": "#342c26",
-    "bodyMin": 7.11
+    "bodyMin": 9.44
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 4,
     "palette": "10",
-    "paper": "#c5c7b8",
+    "paper": "#e7e4db",
     "ink": "#312a24",
-    "bodyMin": 7.64
+    "bodyMin": 10.3
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 5,
     "palette": "10",
-    "paper": "#c1c3b4",
+    "paper": "#e2dfd6",
     "ink": "#332c25",
-    "bodyMin": 7.15
+    "bodyMin": 9.55
   },
   {
     "edition": "A05",
     "chapter": 1,
     "memory": 6,
     "palette": "10",
-    "paper": "#c6c7b8",
+    "paper": "#e7e4db",
     "ink": "#302923",
-    "bodyMin": 7.76
+    "bodyMin": 10.44
   },
   {
     "edition": "A05",
     "chapter": 2,
     "palette": "10",
-    "paper": "#152c22",
+    "paper": "#112a21",
     "ink": "#faf5ed",
-    "bodyMin": 11.71,
-    "titleRatio": 8.82
+    "bodyMin": 12.09,
+    "titleRatio": 9.07
   },
   {
     "edition": "A05",
     "chapter": 2,
     "memory": 1,
     "palette": "10",
-    "paper": "#1f352b",
+    "paper": "#1b332a",
     "ink": "#f9f3ea",
+    "bodyMin": 10.74
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 2,
+    "palette": "10",
+    "paper": "#21382f",
+    "ink": "#f9f3e9",
+    "bodyMin": 10.06
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 3,
+    "palette": "10",
+    "paper": "#1b332a",
+    "ink": "#f9f4ea",
+    "bodyMin": 10.81
+  },
+  {
+    "edition": "A05",
+    "chapter": 2,
+    "memory": 4,
+    "palette": "10",
+    "paper": "#21382f",
+    "ink": "#f9f3e9",
+    "bodyMin": 10.06
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "palette": "10",
+    "paper": "#edeadf",
+    "ink": "#2b2520",
+    "bodyMin": 11.34,
+    "titleRatio": 12.56
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "memory": 1,
+    "palette": "10",
+    "paper": "#e0ddd3",
+    "ink": "#332c25",
+    "bodyMin": 9.36
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "memory": 2,
+    "palette": "10",
+    "paper": "#e5e2d8",
+    "ink": "#302923",
+    "bodyMin": 10.23
+  },
+  {
+    "edition": "A05",
+    "chapter": 3,
+    "memory": 3,
+    "palette": "10",
+    "paper": "#e7e3d9",
+    "ink": "#2f2923",
     "bodyMin": 10.39
   },
   {
     "edition": "A05",
-    "chapter": 2,
-    "memory": 2,
-    "palette": "10",
-    "paper": "#253a30",
-    "ink": "#f9f3e9",
-    "bodyMin": 9.72
-  },
-  {
-    "edition": "A05",
-    "chapter": 2,
-    "memory": 3,
-    "palette": "10",
-    "paper": "#1f352b",
-    "ink": "#f9f4ea",
-    "bodyMin": 10.45
-  },
-  {
-    "edition": "A05",
-    "chapter": 2,
-    "memory": 4,
-    "palette": "10",
-    "paper": "#243930",
-    "ink": "#f9f3e9",
-    "bodyMin": 9.86
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "palette": "10",
-    "paper": "#c3c9bb",
-    "ink": "#2b2520",
-    "bodyMin": 8.14,
-    "titleRatio": 8.93
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "memory": 1,
-    "palette": "10",
-    "paper": "#b9beb1",
-    "ink": "#2b2520",
-    "bodyMin": 7.4
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "memory": 2,
-    "palette": "10",
-    "paper": "#bdc3b5",
-    "ink": "#302923",
-    "bodyMin": 7.37
-  },
-  {
-    "edition": "A05",
-    "chapter": 3,
-    "memory": 3,
-    "palette": "10",
-    "paper": "#bec4b6",
-    "ink": "#2f2923",
-    "bodyMin": 7.48
-  },
-  {
-    "edition": "A05",
     "chapter": 3,
     "memory": 4,
     "palette": "10",
-    "paper": "#bac0b2",
-    "ink": "#2b2520",
-    "bodyMin": 7.54
+    "paper": "#e2dfd4",
+    "ink": "#322b24",
+    "bodyMin": 9.67
   },
   {
     "edition": "A06",

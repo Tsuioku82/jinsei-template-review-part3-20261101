@@ -3,7 +3,7 @@ const {esc}=require('../hero-engine.cjs');
 const {wareki,context}=require('../data.cjs');
 function render(id,d){
  const prefix='jr-'+id[0].toLowerCase()+'-l'+id.slice(1), cl=r=>prefix+'-e-'+r;
- const tag=(tag,role,body,attrs='')=>`<${tag} class="${cl(role)}" ${attrs}${String(body).includes('data-client-photo-slot')?' data-photo-pending':''}>${body}</${tag}>`;
+ const tag=(tag,role,body,attrs='')=>`<${tag} class="${cl(role)}" ${attrs}${String(body).includes('data-client-photo-slot')?' data-photo-pending':''}${String(body).includes('data-client-photo-slot')||String(body).includes('data-customer-photo')?' data-customer-visual':''}>${body}</${tag}>`;
  const line=(value,role='copy')=>tag('p',role,esc(value),'data-body');
  const s=(i,j)=>d.chapters[i].sections[j];
  const digest=require('node:crypto').createHash('sha256').update(JSON.stringify(d.chapters)).digest('hex');
@@ -16,7 +16,7 @@ function render(id,d){
  const display=(value,role='display')=>tag('p',role,String(value).split('\n').map((line,i)=>tag('span','type-line',esc(line),'data-type-line="'+i+'"')).join(''),'data-display-type');
  const quote=(value,source,role='quote')=>tag('blockquote',role,tag('p','quote-text',esc(value))+(source?tag('cite','quote-source',esc(source)):''));
  const image=(n,role,caption)=>typeof n==='number'?require('./design-art.cjs').photo(n,role,ctx):require('./design-art.cjs').decoration(id,role,ctx);
- const prop=(file,role)=>{if(['B02','B09','A07'].includes(id)||(id==='B05'&&role!=='cover-botanical-part'))return '';const meta=require('../assets/design-art-manifest.json')[id];return `<img class="${cl(role)}" data-decoration data-design-art="${id}" ${['B02','B05','B09'].includes(id)?'data-mascot':''} src="img/design-${id}.png" width="${meta.width}" height="${meta.height}" alt="" aria-hidden="true" loading="lazy">`;};
+ const prop=(file,role)=>{if(['B02','B09','A07'].includes(id)||(id==='B05'&&role!=='cover-botanical-part'))return '';const key={A06:'A06-tool',B01:'B01-flower',B06:'divider-B06'}[id],meta=key?require('../assets/editorial-parts.json')[key]:require('../assets/design-art-manifest.json')[id];const src=key?meta.file:'img/design-'+id+'.png';return `<img class="${cl(role)}" data-decoration data-design-art="${id}" ${id==='B05'?'data-mascot':''} src="${src}" width="${meta.width}" height="${meta.height}" alt="" aria-hidden="true" loading="lazy">`;};
  const years=(role)=>tag('ol',role,(d.timeline||[]).map(e=>tag('li','date-record',`<time datetime="${e.year}"><b>${e.year}</b><span>${esc(wareki(e.year))}・${e.year-d.birthYear}歳</span></time><div><strong>${esc(e.title)}</strong>${line(e.text,'date-copy')}${context[e.year]&&e.showWorld!==false?`<p data-world-note>その年の世の中：${esc(context[e.year].text)} <a href="${esc(context[e.year].url)}" target="_blank" rel="noopener noreferrer">${esc(context[e.year].source)}</a></p>`:''}</div>`,'data-event')).join(''),'data-timeline');
  const letter=(role)=>tag('aside',role,line(d.letter.to,'recipient')+line(d.letter.text,'letter-copy')+line(d.letter.signature,'signature'),'data-letter');
  const ctx={d,cl,tag,line,s,h,label,text,memory,chapter,display,quote,image,prop,years,letter};
@@ -42,6 +42,6 @@ function render(id,d){
  `;
  const o=d.optional||{};
  const optional=(o.handwriting?tag('aside','handwriting','<h3>手書きの言葉</h3><img src="'+esc(o.handwriting)+'" alt="ご本人の手書きの言葉" width="960" height="640">','data-optional'):'')+(o.voiceUrl?tag('aside','voice','<h3>声のメッセージ</h3><audio controls preload="none" src="'+esc(o.voiceUrl)+'"></audio>','data-optional data-audio'):'')+(o.familyTree?tag('aside','family-tree','<h3>大切な人とのつながり</h3>'+line(o.familyTree),'data-optional'):'')+(o.wishes?tag('aside','wishes','<h3>これからの願い</h3>'+line(o.wishes),'data-optional'):'');
- return {hero:cover.hero,chapters:optional?result.html.replace(/<\/section>$/,optional+'</section>'):result.html,css:(foundation+result.css+cover.css+require('./typography.cjs')(id)+require('./ornamented-type.cjs').styles(id)+require('./display-lettering.cjs')(id)+require('./secondary-lettering.cjs')(id)+require('./motion.cjs')(id)+require('./choreography.cjs').styles(id)+require('./transitions.cjs')(id)).replace(/§([a-z][a-z0-9-]*)/g,(_,r)=>'.'+cl(r))};
+ return {hero:cover.hero,chapters:optional?result.html.replace(/<\/section>$/,optional+'</section>'):result.html,css:(foundation+result.css+cover.css+require('./typography.cjs')(id)+require('./ornamented-type.cjs').styles(id)+require('./display-lettering.cjs')(id)+require('./secondary-lettering.cjs')(id)+require('./motion.cjs')(id)+require('./choreography.cjs').styles(id)+require('./transitions.cjs')(id)+(result.refinement||'')+require('./photo-layout.cjs')(id)+require('./responsive-type.cjs')(id)).replace(/§([a-z][a-z0-9-]*)/g,(_,r)=>'.'+cl(r))};
 }
 module.exports={render};
