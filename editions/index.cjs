@@ -3,7 +3,7 @@ const {esc}=require('../hero-engine.cjs');
 const {wareki,context}=require('../data.cjs');
 function render(id,d){
  const prefix='jr-'+id[0].toLowerCase()+'-l'+id.slice(1), cl=r=>prefix+'-e-'+r;
- const tag=(tag,role,body,attrs='')=>`<${tag} class="${cl(role)}" ${attrs}>${body}</${tag}>`;
+ const tag=(tag,role,body,attrs='')=>`<${tag} class="${cl(role)}" ${attrs}${String(body).includes('data-client-photo-slot')?' data-photo-pending':''}>${body}</${tag}>`;
  const line=(value,role='copy')=>tag('p',role,esc(value),'data-body');
  const s=(i,j)=>d.chapters[i].sections[j];
  const digest=require('node:crypto').createHash('sha256').update(JSON.stringify(d.chapters)).digest('hex');
